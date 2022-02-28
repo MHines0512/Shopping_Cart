@@ -1,5 +1,4 @@
-# navBarExercises
-Basic Exercises in Navbar, Props etc
+# Shopping Cart
 
 This exercise creates a shopping cart in which you can add and take away items. It will then calcualte and display the number of items left.
 
